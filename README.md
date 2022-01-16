@@ -1,4 +1,4 @@
-# AHT10_Tasmota_10.1
+# AHT10_Tasmota_9.2
 https://tasmota.github.io/docs/AHT1x/#tasmota-settings
 https://tasmota.github.io/docs/Compile-your-build/#compiling-tools
 https://github.com/benzino77/tasmocompiler
@@ -26,3 +26,5 @@ Configure module
 
 TX GPIO1 - I2C SCL
 RX GPIO3 - I2C SDA
+
+
